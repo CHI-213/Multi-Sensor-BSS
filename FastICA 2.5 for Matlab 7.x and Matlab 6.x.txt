@@ -1,0 +1,3 @@
+FastICA 2.5 for Matlab 7.x and Matlab 6.x
+
+https://research.ics.aalto.fi/ica/fastica/code/dlcode.shtml
