@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-title: "Synthetic validation code for FastICA fault-detection study"
+title: "Real and Synthetic validation code for FastICA"
 message: "If you use this software, please cite it as below."
 type: software
 authors:
   - family-names: "CHITER"
     given-names: "Ammar"
-repository-code: "https://github.com/CHI-213/FastICA_Experimental"
+repository-code: "https://github.com/CHI-213/Multi-Sensor-BSS"
 license: "MIT"
-version: "v1.0-paper"
-date-released: "2026-03-26"
+version: "V.02"
+date-released: "2026-03-30"
