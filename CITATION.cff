@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: "CHITER"
     given-names: "Ammar"
+    orcid: "https://orcid.org/0000-0002-6511-3706"
 repository-code: "https://github.com/CHI-213/Multi-Sensor-BSS"
 license: "MIT"
 version: "V.02"
