@@ -1,0 +1,4 @@
+ch1.mat = S5_E_AD    N=29981
+ch2.mat = S5_RB_AD   N=29981
+ch3.mat = S5_RR_AD   N=29981
+M1-To-M5             (N,M)=(3,5000)
