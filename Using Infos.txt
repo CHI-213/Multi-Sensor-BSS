@@ -1,0 +1,1 @@
+Code to used for vibratory signals processing and to generate synthetic signals validation 
